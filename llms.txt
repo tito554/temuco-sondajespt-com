@@ -1,0 +1,52 @@
+# Sondajespt — Temuco
+
+> Geotechnical engineering services in Temuco, Chile.
+
+## Services
+- [Aislacion Sismica](https://temuco.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://temuco.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://temuco.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://temuco.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://temuco.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://temuco.sondajespt.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://temuco.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://temuco.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://temuco.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://temuco.sondajespt.com/ensayo-triaxial/)
+- [Estabilidad Taludes](https://temuco.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://temuco.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://temuco.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://temuco.sondajespt.com/exploracion/)
+- [Geofisica](https://temuco.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://temuco.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://temuco.sondajespt.com/granulometria/)
+- [Grouting](https://temuco.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://temuco.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://temuco.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://temuco.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://temuco.sondajespt.com/limites-atterberg/)
+- [Losa De Cimentacion](https://temuco.sondajespt.com/losa-de-cimentacion/)
+- [Masw Vs30](https://temuco.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://temuco.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://temuco.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://temuco.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://temuco.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://temuco.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://temuco.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://temuco.sondajespt.com/permeabilidad-campo/)
+- [Pilotes](https://temuco.sondajespt.com/pilotes/)
+- [Placa De Carga](https://temuco.sondajespt.com/placa-de-carga/)
+- [Resistividad Electrica Sev](https://temuco.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://temuco.sondajespt.com/sismica/)
+- [Sondaje Spt](https://temuco.sondajespt.com/sondaje-spt/)
+- [Taludes](https://temuco.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://temuco.sondajespt.com/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://temuco.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://temuco.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://temuco.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Temuco, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
